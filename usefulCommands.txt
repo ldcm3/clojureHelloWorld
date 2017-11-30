@@ -1,0 +1,10 @@
+lein new app clojure-noob
+
+lein run
+
+lein uberjar
+
+java jar target/uberjar/....
+
+lein repl
+
